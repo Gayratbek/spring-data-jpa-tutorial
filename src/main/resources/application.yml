@@ -1,0 +1,15 @@
+#
+#spring:
+#  datasource:
+#    username: postgres
+#    url: jdbc:postgresql://localhost:5432/scholldb
+#    password: admin
+#  jpa:
+#    properties:
+#      hibernate:
+#        dialect: org.hibernate.dialect.PostgreSQLDialect
+#    hibernate:
+#      show-sql: 'true'
+#      ddl-auto: update
+#welcome:
+#  message: Welcome to Daily Code Buffer!!
